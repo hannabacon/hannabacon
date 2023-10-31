@@ -4,9 +4,11 @@
 - 🔭 Estou trabalhando com FullStack
 - 🌱 Atualmente estou aprendendo Flutter
 - 😄 Pronouns: ela/dela
-
-
-<figure><embed src="https://wakatime.com/share/@018b6871-ca43-4154-a201-fe7c6c2cdab3/522fb8ce-e28e-457e-8243-e63e2df36e21.svg"></embed></figure>
+<div>
+  <a href="https://github.com/hannabacon">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hannabacon&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hannabacon&layout=compact&langs_count=8&theme=radical"/>
+<div>
 
 
 <picture>
