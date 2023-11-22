@@ -2,7 +2,6 @@
 
 
 - 🔭 Estou trabalhando com FullStack
-- 🌱 Atualmente estou aprendendo Flutter
 - 😄 Pronouns: ela/dela
 
 
