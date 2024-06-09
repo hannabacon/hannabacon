@@ -1,4 +1,4 @@
-### Olá eu sou a hannabacon, bem vindo ao meu perfil! :)
+### Hello, I'm Hannabacon, welcome to my profile! :)
 
 
 - 🔭 Currently working with FullStack
