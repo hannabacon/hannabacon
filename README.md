@@ -1,9 +1,8 @@
 ### Olá eu sou a hannabacon, bem vindo ao meu perfil! :)
 
 
-- 🔭 Estou trabalhando com FullStack
-- 😄 Pronouns: ela/dela
-
+- 🔭 Currently working with FullStack
+- 🌠 Studying systems analysis and development
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hannabacon/hannabacon/output/github-contribution-grid-snake-dark.svg">
