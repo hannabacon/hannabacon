@@ -1,7 +1,7 @@
 ### Hello, I'm Hannabacon, welcome to my profile! :)
 
 
-- 🔭 Currently working with FullStack
+- 🔭 Currently working with Front-end
 - 🌠 Studying systems analysis and development
 
 <picture>
