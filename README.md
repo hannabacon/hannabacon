@@ -1,8 +1,8 @@
 ### Hello, I'm Hannabacon, welcome to my profile! :)
 
 
-- 🔭 Currently working with Front-end
-- 🌠 Studying systems analysis and development
+- Formada em análise e desenvolvimento de sistemas
+- Pós em IA aplicada, UNIPDS
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hannabacon/hannabacon/output/github-contribution-grid-snake-dark.svg">
