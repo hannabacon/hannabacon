@@ -1,6 +1,6 @@
-### Hello, I'm Hannabacon, welcome to my profile! :)
+### Oie, meu nome é Yasmin :)
 
-
+- Front-end 🤍
 - Formada em análise e desenvolvimento de sistemas
 - Pós em IA aplicada, UNIPDS
 
